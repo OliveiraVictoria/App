@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bob_image">bob_image</drawable>
+    <drawable name="alice_image">alice-image</drawable>
+</resources>
